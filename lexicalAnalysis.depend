@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1589556514 source:c:\users\ozgeb\documents\c projects\lexicalanalysis\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

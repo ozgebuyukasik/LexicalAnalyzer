@@ -1,0 +1,31 @@
+Identifier (hi)
+Operator (:=)
+Identifier (hello)
+Operator (+)
+IntConst(25)
+EndOfLine
+Identifier (hello)
+Operator (++)
+EndOfLine
+Keyword (int)
+Identifier (i)
+EndOfLine
+Keyword (char)
+LeftSquareBracket
+RightSquareBracket
+Identifier (str1)
+Operator (:=)
+StringConst (bay)
+EndOfLine
+Identifier (identifieridentifieridentifier)
+Size error! Maximum identifier size is 20 characters.
+Operator (:=)
+IntConst(3000000000000000)
+Size error! Maximum integer size is 10 digits.
+EndOfLine
+Keyword (char)
+LeftSquareBracket
+RightSquareBracket
+Identifier (str2)
+Operator (:=)
+Unterminated String Error! A string constant cannot terminate before the file end./n

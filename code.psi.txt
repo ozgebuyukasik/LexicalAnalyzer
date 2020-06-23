@@ -1,0 +1,6 @@
+hi:=hello+25; (*addition *) 
+hello++; (*increment*) 
+int i;
+char [] str1 := "bay";
+identifieridentifieridentifier := 3000000000000000;
+char [] str2 := "baybay
